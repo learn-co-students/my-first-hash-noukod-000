@@ -1,5 +1,5 @@
 def my_hash
-your_hash = {name : "Germie"}
+your_hash = {"name"= "Germie", "month"=> "april"}
  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 end
 
